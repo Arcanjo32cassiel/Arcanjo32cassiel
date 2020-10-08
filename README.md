@@ -12,14 +12,9 @@
 
 ![Arcanjo32cassiel GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arcanjo32cassiel&show_icons=true)
 
-  <a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
+  <a target="_blank" href="https://www.linkedin.com/in/arcanjo-cassiel-b0278b1a7/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-  <a target="_blank" href="https://www.instagram.com/ary.clenio/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
-
-  <a target="_blank" href="mailto:arycleniobarros@gmail.com">
+  <a target="_blank" href="mailto:arcanjocassiel687@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
-
