@@ -11,9 +11,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 <h1 align="center">
-<img alt="Duduxs" src="https://github-readme-stats.codestackr.vercel.app/api?username=Arcanjo32cassiel&show_icons=true&hide_border=true&theme=radical" />
-</h1>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arcanjo32cassiel&show_icons=true&theme=prussian)
+  
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arcanjo32cassiel&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
+</h1>
 
 
   <a target="_blank" href="https://www.linkedin.com/in/arcanjo-cassiel-b0278b1a7/">
@@ -22,3 +26,10 @@
   <a target="_blank" href="mailto:arcanjocassiel687@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
+
+<!-- /////// -->
+
+
+
+
+
